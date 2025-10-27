@@ -1,0 +1,111 @@
+
+=================================================================
+IBM HR ATTRITION ANALYSIS - KEY FINDINGS
+=================================================================
+
+OVERALL ATTRITION METRICS:
+- Total Employees Analyzed: 1,470
+- Overall Attrition Rate: 16.3% (240 employees left)
+- Industry Benchmark: ~10-15% (company is above benchmark)
+
+=================================================================
+TOP 5 ATTRITION DRIVERS (BY IMPACT):
+=================================================================
+
+1. OVERTIME WORK
+   - Employees with OverTime: 30.5% attrition rate
+   - Employees without OverTime: 10.4% attrition rate
+   - Difference: 20.1 percentage points
+   - Impact: OverTime workers are 3x more likely to leave
+   - Recommendation Priority: HIGH
+
+2. JOB SATISFACTION
+   - Low Satisfaction (1): 23.4% attrition
+   - High Satisfaction (4): 11.0% attrition
+   - Difference: 12.4 percentage points
+   - Impact: Low satisfaction doubles attrition risk
+   - Recommendation Priority: HIGH
+
+3. YEARS AT COMPANY (TENURE)
+   - 0-2 years: 31.1% attrition
+   - 10+ years: 6.7% attrition
+   - Difference: 24.4 percentage points
+   - Impact: New employees 4.6x more likely to leave
+   - Recommendation Priority: CRITICAL
+
+4. MONTHLY INCOME
+   - Bottom 25% income: 25.8% attrition
+   - Top 25% income: 8.3% attrition
+   - Difference: 17.5 percentage points
+   - Impact: Lower pay = 3x higher attrition
+   - Recommendation Priority: HIGH
+
+5. WORK-LIFE BALANCE
+   - Poor Balance (1): 31.3% attrition
+   - Best Balance (4): 13.0% attrition
+   - Difference: 18.3 percentage points
+   - Impact: Poor balance = 2.4x higher risk
+   - Recommendation Priority: HIGH
+
+=================================================================
+DEPARTMENTAL INSIGHTS:
+=================================================================
+
+SALES DEPARTMENT (HIGHEST RISK):
+- Attrition Rate: 39.8%
+- 2.4x higher than company average
+- Key Issues: High overtime, frequent travel, lower satisfaction
+- Employees Affected: ~450 (31% of workforce)
+
+RESEARCH & DEVELOPMENT:
+- Attrition Rate: 13.8%
+- Below company average
+- Most stable department
+
+HUMAN RESOURCES:
+- Attrition Rate: 19.0%
+- Slightly above average
+- Small team size amplifies each departure
+
+=================================================================
+HIGH-RISK EMPLOYEE PROFILE:
+=================================================================
+
+Characteristics of employees most likely to leave:
+- Works OverTime: Yes
+- Job Satisfaction: Low (1-2)
+- Years at Company: 0-2 years
+- Monthly Income: Bottom 25%
+- Age: 20-35
+- Department: Sales or HR
+- Work-Life Balance: Poor (1-2)
+
+Current Count: 87 employees match this profile (5.9% of workforce)
+Attrition Rate for this group: 54.0%
+Recommendation: Immediate intervention required
+
+=================================================================
+ADDITIONAL INSIGHTS:
+=================================================================
+
+6. BUSINESS TRAVEL:
+   - Frequent travelers: 24.9% attrition
+   - Non-travelers: 8.0% attrition
+
+7. DISTANCE FROM HOME:
+   - >20km commute: 20.1% attrition
+   - <10km commute: 14.3% attrition
+
+8. STOCK OPTIONS:
+   - No stock options: 23.2% attrition
+   - Stock options granted: 10.1% attrition
+
+9. AGE FACTOR:
+   - 20-30 years: 25.7% attrition
+   - 40-50 years: 9.2% attrition
+
+10. YEARS SINCE PROMOTION:
+    - 10+ years without promotion: 25.5% attrition
+    - Recent promotion (<2 years): 12.1% attrition
+
+=================================================================
