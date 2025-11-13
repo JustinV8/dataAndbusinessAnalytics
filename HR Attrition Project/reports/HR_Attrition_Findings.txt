@@ -1,17 +1,14 @@
 
-=================================================================
 IBM HR ATTRITION ANALYSIS - KEY FINDINGS
-=================================================================
+
 
 OVERALL ATTRITION METRICS:
 - Total Employees Analyzed: 1,470
 - Overall Attrition Rate: 16.3% (240 employees left)
 - Industry Benchmark: ~10-15% (company is above benchmark)
 
-=================================================================
-TOP 5 ATTRITION DRIVERS (BY IMPACT):
-=================================================================
 
+TOP 5 ATTRITION DRIVERS (BY IMPACT):
 1. OVERTIME WORK
    - Employees with OverTime: 30.5% attrition rate
    - Employees without OverTime: 10.4% attrition rate
@@ -47,10 +44,8 @@ TOP 5 ATTRITION DRIVERS (BY IMPACT):
    - Impact: Poor balance = 2.4x higher risk
    - Recommendation Priority: HIGH
 
-=================================================================
-DEPARTMENTAL INSIGHTS:
-=================================================================
 
+DEPARTMENTAL INSIGHTS:
 SALES DEPARTMENT (HIGHEST RISK):
 - Attrition Rate: 39.8%
 - 2.4x higher than company average
@@ -67,10 +62,8 @@ HUMAN RESOURCES:
 - Slightly above average
 - Small team size amplifies each departure
 
-=================================================================
-HIGH-RISK EMPLOYEE PROFILE:
-=================================================================
 
+HIGH-RISK EMPLOYEE PROFILE:
 Characteristics of employees most likely to leave:
 - Works OverTime: Yes
 - Job Satisfaction: Low (1-2)
@@ -84,10 +77,8 @@ Current Count: 87 employees match this profile (5.9% of workforce)
 Attrition Rate for this group: 54.0%
 Recommendation: Immediate intervention required
 
-=================================================================
-ADDITIONAL INSIGHTS:
-=================================================================
 
+ADDITIONAL INSIGHTS:
 6. BUSINESS TRAVEL:
    - Frequent travelers: 24.9% attrition
    - Non-travelers: 8.0% attrition
@@ -108,4 +99,3 @@ ADDITIONAL INSIGHTS:
     - 10+ years without promotion: 25.5% attrition
     - Recent promotion (<2 years): 12.1% attrition
 
-=================================================================
