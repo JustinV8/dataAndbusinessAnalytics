@@ -1,0 +1,11 @@
+Region,Country,Total_Sales,Total_Profit,Total_Quantity,Total_Orders
+Australia,Australia,1391024.85,-80276.77,4055,108
+Canada,Canada,13875632.96,255576.41,39743,658
+Central,United States,7633386.86,165349.24,18619,363
+France,France,4527839.69,5332.16,13903,179
+Germany,Germany,1877743.39,-80996.89,6949,118
+Northeast,United States,6715354.39,109598.52,19077,331
+Northwest,United States,12004822.45,304235.84,26553,513
+Southeast,United States,7638606.55,168495.82,18101,455
+Southwest,United States,18001116.1,110750.76,45093,717
+United Kingdom,United Kingdom,3883042.96,41429.48,12021,174
